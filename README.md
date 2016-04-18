@@ -1,2 +1,2 @@
 # appharbor
-.Net website deployed to addharbor.com
+.Net website deployed to [appharbor.com](http://www.appharbor.com)
